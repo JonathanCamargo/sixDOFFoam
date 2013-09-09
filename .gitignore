@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+#dependencies
+*.dep
+
+#wmake auto Include folder
+lnInclude
+linux64GccDOpt
+linuxGccDPOpt
